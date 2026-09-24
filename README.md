@@ -55,3 +55,4 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 
 ESERCZIO 1
+Riga fake per eserczio 12
