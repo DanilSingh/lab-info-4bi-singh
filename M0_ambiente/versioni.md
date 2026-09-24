@@ -8,3 +8,5 @@ x64
 
 ### git --version
 git version 2.51.1.windows.1
+
+Eserczio 12 stupido
