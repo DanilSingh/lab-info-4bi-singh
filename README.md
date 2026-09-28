@@ -3,9 +3,8 @@
 ## Informatica
 ## 2026/2027  
 
-Non serve a nein-te, fai esercizzi, piangi facendoli,  
-vendi la tua anima, Zanoni ti fà fare la fine del bufalotto,  
-WhatsApp ti spia, non voglio fare questi esercizzi, voglio giocare a Minecraft  
+Non serve a niente, fai esercizzi, piangi facendoli,  
+vendi la tua anima.
 
 ### M0_ambiente
 ambiete di esercitazione
