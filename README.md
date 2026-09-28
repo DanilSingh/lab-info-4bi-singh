@@ -3,8 +3,7 @@
 ## Informatica
 ## 2026/2027  
 
-Non serve a niente, fai esercizzi, piangi facendoli,  
-vendi la tua anima.
+Non serve a niente
 
 ### M0_ambiente
 ambiete di esercitazione
